@@ -1,10 +1,4 @@
 <h2 align="center">What story does your code tell?</h2>
-
-###
-
-<div align="center">
-  <img height="150" src="https://imgur.com/zqtExgy.png" style="border-radius: 20;" />
-</div>
 <h2 align="left">I'm on a quest to change the world, one repo at a time.<br> Stop by🚦, explore the code, and if anything resonates...join me for the ride</h2>
 
 ###
