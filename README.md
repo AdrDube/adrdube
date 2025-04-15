@@ -12,16 +12,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" hspace="10" />
   </a>
   
-  <a href="https://www.linkedin.com/in/adrieltdube/" target="_blank">
+  <a href="https://adrdube.github.io/" target="_blank">
     <img src="https://imgur.com/aQG90R1.png" height="35"  width="120" alt="website portfolio" hspace="10"/>
   </a>
 </div>
 
-###
-
-<h3 align="left">Tech Stack:</h3>
+<img src="https://raw.githubusercontent.com/AdrDube/AdrDube/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="center">Tech Stack:</h3>
 <div align="center">
   <strong>Languages</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" />
@@ -31,7 +31,6 @@
   <img src="https://cdn.simpleicons.org/c++/00599C" height="36" alt="cplusplus logo" />
 </div>
 
-<br>
 
 <div align="center">
   <strong>Tools & Frameworks</strong><br>
@@ -63,8 +62,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/AdrDube/AdrDube/output/snake.svg" alt="Snake animation" />
 
 ###
