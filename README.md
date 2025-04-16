@@ -1,18 +1,7 @@
 <h2 align="center">What story does your code tell?</h2>
 <h2 align="left">I'm on a quest to change the world, one repo at a time.<br> Stop by🚦, explore the code, and if anything resonates...join me for the ride</h2>
 
-<div>
-    <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
-    </a>
-    <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
-      <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/ClassSync-short.gif" height="400">
-    </a>
-    <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
-    </a>
-    <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
-      <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/Swifty.gif" height="400">
-    </a>
-  </div>
+
 
 
 ###
@@ -33,7 +22,20 @@
 
 <img src="https://raw.githubusercontent.com/AdrDube/AdrDube/output/snake.svg" alt="Snake animation" />
 
-###
+
+<h3 align="center">
+  Featured Projects: <em><sup><small>*Click to view</small></sup></em>
+</h3>
+<div>
+    <a href="https://github.com/AdrDube/Classync">
+      <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/ClassSync-short.gif" height="400">
+    </a>
+    &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;
+    <a href="https://github.com/AdrDube/GSU-Registration">
+      <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/Swifty.gif" height="380 width="560">
+    </a>
+</div>
+
 
 <h3 align="center">Tech Stack:</h3>
 <div align="center">
