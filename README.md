@@ -5,7 +5,7 @@
     <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
     </a>
     <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
-      <img src="https://imgur.com/a/gB7T1hx.gif">
+      <img src="https://raw.githubusercontent.com/AdrDube/AdrDube/output/ClassSync-short.gif">
     </a>
   </div>
 
