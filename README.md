@@ -30,7 +30,7 @@
     <a href="https://github.com/AdrDube/Classync">
       <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/ClassSync-short.gif" height="400">
     </a>
-    &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;
+    &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; 
     <a href="https://github.com/AdrDube/GSU-Registration">
       <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/Swifty.gif" height="380 width="560">
     </a>
