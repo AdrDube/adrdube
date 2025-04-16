@@ -1,6 +1,15 @@
 <h2 align="center">What story does your code tell?</h2>
 <h2 align="left">I'm on a quest to change the world, one repo at a time.<br> Stop by🚦, explore the code, and if anything resonates...join me for the ride</h2>
 
+<div>
+    <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
+    </a>
+    <a href="https://www.loom.com/share/119f44c984a54fd6aa811dbedee582c7">
+      <img src="https://imgur.com/a/gB7T1hx.gif">
+    </a>
+  </div>
+
+
 ###
 
 <div align="left">
