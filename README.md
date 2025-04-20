@@ -26,15 +26,23 @@
 <h3 align="center">
   Featured Projects: <em><sup><small>*Click to view</small></sup></em>
 </h3>
-<div>
-    <a href="https://github.com/AdrDube/Classync">
-      <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/ClassSync-short.gif" height="400">
-    </a>
-    &nbsp;&nbsp;  &nbsp;&nbsp;
-    <a href="https://github.com/AdrDube/GSU-Registration">
-      <img src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/Swifty.gif" height="380 width="560">
-    </a>
+<div align="center">
+  <a href="https://github.com/AdrDube/Classync">
+    <img 
+      src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/ClassSync-short.gif" 
+      height="400" 
+      alt="Classync Demo">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AdrDube/GSU-Registration">
+    <img 
+      src="https://raw.githubusercontent.com/AdrDube/adrdube/main/.github/workflows/Swifty.gif" 
+      height="380" 
+      width="560"
+      alt="GSU Registration Demo">
+  </a>
 </div>
+
 
 
 <h3 align="center">Tech Stack:</h3>
